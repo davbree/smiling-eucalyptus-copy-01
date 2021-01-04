@@ -42,7 +42,7 @@ export default class HeroSection extends React.Component {
                   </div>
                 </div>
               </div>
-              <h1
+              <h1>klk</h1
             </section>
         );
     }
